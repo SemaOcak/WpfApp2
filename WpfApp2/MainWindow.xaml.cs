@@ -27,7 +27,7 @@ namespace WpfApp2
 
         private void DataGrid_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            ; ;
+            ; ;ss
         }
     }
 }
